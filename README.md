@@ -10,7 +10,6 @@ Este script en Python genera un archivo PDF que simula una factura comercial leg
 - [🚀 Uso](#-uso)
   - [Argumentos](#argumentos)
   - [📌 Ejemplos](#-ejemplos)
-- [🖼️ Captura](#️-captura)
 - [🔍 Explicación del código](#-explicación-del-código)
 - [🛡️ Análisis de seguridad](#️-análisis-de-seguridad)
 - [⚠️ Advertencia](#️-advertencia)
