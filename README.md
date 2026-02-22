@@ -62,14 +62,6 @@ python popup_factura.py "Alerta: \"No abras archivos sospechosos\"" ejemplo.pdf
 
 ---
 
-## 🖼️ Captura
-
-Al abrir `factura_aviso.pdf` con un lector compatible, verás la factura y un popup similar a este:
-
-* [https://i.imgur.com/placeholder.png](https://i.imgur.com/placeholder.png) *(reemplazar con una captura real)*
-
----
-
 ## 🔍 Explicación del código
 
 El PDF se construye manualmente mediante una cadena de texto que sigue la especificación PDF. Los objetos principales son:
