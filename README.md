@@ -1,7 +1,7 @@
-🧾 ## Generador de PDF con Factura y Popup Educativo
+🧾# Generador de PDF con Factura y Popup Educativo
 Este script en Python genera un archivo PDF que simula una factura comercial legítima y, al abrirse, ejecuta automáticamente un mensaje emergente (popup) mediante JavaScript. Está diseñado exclusivamente para fines educativos y de concientización sobre los riesgos de seguridad asociados a la ejecución automática de código en documentos PDF.
 
-🎯 Características
+🎯 # Características
 Genera un PDF con una factura ficticia (con productos, cantidades, precios y totales).
 
 Incluye un JavaScript que muestra un cuadro de diálogo con un mensaje personalizado al abrir el archivo.
